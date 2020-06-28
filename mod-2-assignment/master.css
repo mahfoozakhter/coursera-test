@@ -39,18 +39,18 @@ section {
 h2 {
 	font-size: 1.15em;
 	text-align: center;
-	width: 142px;
+	width: 150px;
 	margin: 0px;
 	padding: 4px;
-	position: relative;
-	top: -15px;
-	right: 15px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
 	border: 0px solid black;
 }
 
 p {
 	margin: 0px;
-	margin-top: 8px;
+	margin-top: 40px;
 
 }
 .blue {
